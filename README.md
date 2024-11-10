@@ -2,7 +2,7 @@
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-kelvyn-oliveira-69504b221/)
 
-![TkelvynGitHub stats](https://github-readme-stats.vercel.app/api?username=m3llybsb&show_icons=true&theme=dracula)
+![TkelvynGitHub stats](https://github-readme-stats.vercel.app/api?username=tkelvyn061&show_icons=true&theme=dracula)
 
 ## Tecnologias que tenho mais familiaridade:
 <div style="display: inline_block"><br/>
